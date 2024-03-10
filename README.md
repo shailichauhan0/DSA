@@ -1,2 +1,2 @@
 # DSA-cpp
- This repository contains C++ DSA problems and algorithms.
+ This repository contains C/C++ DSA problems and algorithms.
