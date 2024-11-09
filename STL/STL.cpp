@@ -13,7 +13,7 @@ void cpp_pairs()
     cout<<s.first<<" "<<s.second.first<<" "<<s.second.second<<endl; //1 2 3 
 
     // to create an array of pairs
-    pair<int,int>a[]={{1,2,},{3,4},{5,6}};
+    pair<int,int>a[]={{1,2},{3,4},{5,6}};
     cout<<a[0].first<<" "<<a[0].second<<endl; //1 2
     cout<<a[1].first<<" "<<a[1].second<<endl; //3 4
     cout<<a[2].first<<" "<<a[2].second<<endl; //5 6
